@@ -13,4 +13,4 @@
 |アスレチック／アスレ|あすれちっく／あすれ|애슬레틱||
 |最果て|さいはて|최후||
 
-![湖景村](./map_image/lakeside_village.png)
+![湖景村](./map_images/lakeside_village.png)
