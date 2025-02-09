@@ -15,4 +15,5 @@
 |S字|えすじ|S자형||
 
 
-![永眠町](./map_images/ever_sleeping_town.png)
+![永眠町(日本語)](./map_images/ever_sleeping_town_ja.png)
+![永眠町(韓国語)](./map_images/ever_sleeping_town_ko.png)

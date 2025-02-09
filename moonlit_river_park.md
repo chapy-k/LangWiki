@@ -17,4 +17,5 @@
 |テント横|てんとよこ|텐트 옆||
 |終点|しゅうてん|종점||
 
-![月の河公園](./map_images/moonlit_river_park.png)
+![月の河公園(日本語)](./map_images/moonlit_river_park_ja.png)
+![月の河公園(韓国語)](./map_images/moonlit_river_park_ko.png)
