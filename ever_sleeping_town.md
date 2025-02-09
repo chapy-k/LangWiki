@@ -13,3 +13,6 @@
 |墓場|はかば|묘지||
 |２階|にかい|이층||
 |S字|えすじ|S자형||
+
+
+![永眠町](./map_images/ever_sleeping_town.png)
