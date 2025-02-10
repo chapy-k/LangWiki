@@ -1,5 +1,7 @@
 # Leo's memory／レオの思い出／韓国語
 
+## Position name
+
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
 |３枚板|さんまいいた|세 장의 판자|se jange panja|
@@ -14,6 +16,8 @@
 |外階段|そとかいだん|바깥 계단|bakkat gyedan|
 |最果て|さいはて|최후|chwehu|
 |タンク|たんく|||
+
+## Map
 
 ![レオの思い出(日本語)](./map_images/leos_memory_ja.png)
 ![レオの思い出(韓国語)](./map_images/leos_memory_ko.png)
