@@ -1,17 +1,19 @@
 # Pweb
 
-[About]()
+<!-- [About]()
 
-  * [このWikiについて](about.md)
+  * [このWikiについて](about.md) -->
 
-[Resources]()
+[IdentityV]()
 
-  * [第五人格](identityV.md)
-  * [語学](language.md)
+  * [eimin](identityV.md)
+  * [reo](language.md)
   - - - -
-  * [サンプル](demo/sample.html)
+  * [term](demo/sample.html)
 
-[Contact](contact.md)
+[Language](language.md)
+
+<!-- [Contact](contact.md) -->
 
 <!-- [gimmick:themechooser](Choose theme) -->
 <!-- [gimmick:theme (inverse: true)](flatly) -->
