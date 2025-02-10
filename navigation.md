@@ -11,7 +11,7 @@
   * [Lakeside village](./IdentityV/lakeside_village.md)
   * [Leo's memory](./IdentityV/leos_memory.md)
   - - - -
-  * [Character](./IdentityV/term.md)
+  * [Character](./IdentityV/character.md)
   * [Term](./IdentityV/term.md)
 
 [Study]()
