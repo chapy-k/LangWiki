@@ -15,7 +15,8 @@
 
   * [Number](number.md)
   * [Pronoun](pronoun.md)
-  * [Wh_questions](wh_questions.md)
+  * [Wh questions](wh_questions.md)
+  * [Words](words.md)
 
 <!-- [Contact](contact.md) -->
 
