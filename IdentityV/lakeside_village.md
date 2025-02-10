@@ -1,4 +1,4 @@
-# Ever sleeping town／永眠町／韓国語
+# Lakeside village／湖景村／韓国語
 
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
