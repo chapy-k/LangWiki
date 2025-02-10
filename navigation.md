@@ -6,17 +6,19 @@
 
 [IdentityV]()
 
-  * [eimin](identityV.md)
-  * [moonlit_river_park](moonlit_river_park.md)
+  * [eiever_sleeping_townmin](./IdentityV/ever_sleeping_town.md)
+  * [moonlit_river_park](./IdentityV/moonlit_river_park.md)
+  * [lakeside_village](./IdentityV/lakeside_village.md)
+  * [leos_memory](./IdentityV/leos_memory.md)
   - - - -
-  * [term](demo/sample.html)
+  * [term](./IdentityV/term.md)
 
 [Study]()
 
-  * [Number](number.md)
-  * [Pronoun](pronoun.md)
-  * [Wh questions](wh_questions.md)
-  * [Words](words.md)
+  * [Number](./Study/number.md)
+  * [Pronoun](./Study/pronoun.md)
+  * [Wh questions](./Study/wh_questions.md)
+  * [Words](./Study/words.md)
 
 <!-- [Contact](contact.md) -->
 

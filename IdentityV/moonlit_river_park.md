@@ -1,4 +1,4 @@
-# 月の河公園
+# Ever sleeping town／永眠町／韓国語
 
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
@@ -19,7 +19,3 @@
 
 ![月の河公園(日本語)](./map_images/moonlit_river_park_ja.png)
 ![月の河公園(韓国語)](./map_images/moonlit_river_park_ko.png)
-
-<div class="backBtn">
-[Back](identityV.md)
-</div>

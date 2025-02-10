@@ -1,4 +1,7 @@
-# 永眠町
+# Ever sleeping town／永眠町／韓国語
+
+
+## Position name
 
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
@@ -15,9 +18,7 @@
 |S字|えすじ|S자형|esseujahyong|
 
 
+## Map
+
 ![永眠町(日本語)](./map_images/ever_sleeping_town_ja.png)
 ![永眠町(韓国語)](./map_images/ever_sleeping_town_ko.png)
-
-<div class="backBtn">
-[Back](identityV.md)
-</div>

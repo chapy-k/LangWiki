@@ -1,4 +1,4 @@
-# 湖景村
+# Ever sleeping town／永眠町／韓国語
 
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
@@ -15,8 +15,3 @@
 
 ![湖景村(日本語)](./map_images/lakeside_village_ja.png)
 ![湖景村(韓国語)](./map_images/lakeside_village_ko.png)
-
-
-<div class="backBtn">
-[Back](identityV.md)
-</div>
