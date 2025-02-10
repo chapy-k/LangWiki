@@ -18,4 +18,5 @@
 ## Map
 
 ![湖景村(日本語)](./map_images/lakeside_village_ja.png)
+
 ![湖景村(韓国語)](./map_images/lakeside_village_ko.png)
