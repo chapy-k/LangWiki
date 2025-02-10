@@ -11,7 +11,11 @@
   - - - -
   * [term](demo/sample.html)
 
-[Language]()
+[Study]()
+
+  * [Number](number.md)
+  * [Pronoun](pronoun.md)
+  * [Wh_questions](wh_questions.md)
 
 <!-- [Contact](contact.md) -->
 
