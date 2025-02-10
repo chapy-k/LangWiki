@@ -50,19 +50,19 @@
 |「 中治り 」 がある!|「 なかなおり 」がある!|저에게 「마지막 희망」 이 있어요!|joege majimak himang i issoyo|
 
 
-### 補助特質／보조 특성（bojo teukssong）
+## 補助特質／보조 특성（bojo teukssong）
 
 |日本語|発音|한국어|발음|
 |:-:|:-:|:-:|:-:|
 |リッスン|りっすん|경청|gyongchong|
 |異常|いじょう|비정상|bijongsang|
 |興奮|こうふん|흥분|heungbun|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
+|巡視者|じゅんししゃ|순찰자|sunchalja|
+|瞬間移動|しゅんかんいどう|텔레포트|telrepoteu|
+|監視者|かんししゃ|정찰자|jongchalja|
+|神出鬼没|しんしゅつきぼつ|플래시|플래시|
+|移形|いけい|형상 이동|hyongsang idong|
+
 
 
 
@@ -79,8 +79,5 @@
 |受難|じゅなん|수난|sunan|
 |危機一髪|ききいっぱつ|위기모면|wigimomyon|
 |起死回生|きしかいせい|구사일생|gusailsaeng|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
-|TD|TD|TD|TD|
+
 
