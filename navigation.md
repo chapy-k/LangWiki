@@ -6,12 +6,13 @@
 
 [IdentityV]()
 
-  * [eiever_sleeping_townmin](./IdentityV/ever_sleeping_town.md)
-  * [moonlit_river_park](./IdentityV/moonlit_river_park.md)
-  * [lakeside_village](./IdentityV/lakeside_village.md)
-  * [leos_memory](./IdentityV/leos_memory.md)
+  * [Ever sleeping town](./IdentityV/ever_sleeping_town.md)
+  * [Moonlit river park](./IdentityV/moonlit_river_park.md)
+  * [Lakeside village](./IdentityV/lakeside_village.md)
+  * [Leo's memory](./IdentityV/leos_memory.md)
   - - - -
-  * [term](./IdentityV/term.md)
+  * [Character](./IdentityV/term.md)
+  * [Term](./IdentityV/term.md)
 
 [Study]()
 
