@@ -1,4 +1,4 @@
-# Ever sleeping town／永眠町／韓国語
+# Ever sleeping town／永眠町／에버 슬리핑 타운
 
 
 ## Position name

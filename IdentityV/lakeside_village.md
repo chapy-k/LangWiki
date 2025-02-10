@@ -1,4 +1,4 @@
-# Lakeside village／湖景村／韓国語
+# Lakeside village／湖景村／호수 마을
 
 ## Position name
 
