@@ -1,4 +1,4 @@
-# Leo's memory／レオの思い出／韓国語
+# Leo's memory／レオの思い出／레오의 기억
 
 ## Position name
 
