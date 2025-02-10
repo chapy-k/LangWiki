@@ -20,4 +20,6 @@
 ![月の河公園(日本語)](./map_images/moonlit_river_park_ja.png)
 ![月の河公園(韓国語)](./map_images/moonlit_river_park_ko.png)
 
+<div class="backBtn">
 [Back](identityV.md)
+</div>
