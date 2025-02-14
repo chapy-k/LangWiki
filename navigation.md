@@ -13,6 +13,7 @@
   - - - -
   * [Character](./IdentityV/character.md)
   * [Term](./IdentityV/term.md)
+  * [tips](./IdentityV/tips.md)
 
 [Study]()
 
