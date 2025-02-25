@@ -21,7 +21,7 @@
   * [Pronoun](./Study/pronoun.md)
   * [Wh questions](./Study/wh_questions.md)
   * [Words](./Study/words.md)
-  * [Words](./Study/conversation.md)
+  * [Conversation.md](./Study/conversation.md)
 * 
 
 <!-- [Contact](contact.md) -->
