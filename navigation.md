@@ -19,6 +19,7 @@
 
   * [Number](./Study/number.md)
   * [Pronoun](./Study/pronoun.md)
+  * [Suffix](./Study/suffix.md)
   * [Wh questions](./Study/wh_questions.md)
   * [Words](./Study/words.md)
   * [Conversation](./Study/conversation.md)
