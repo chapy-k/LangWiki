@@ -13,13 +13,14 @@
   - - - -
   * [Character](./IdentityV/character.md)
   * [Term](./IdentityV/term.md)
-  * [tips](./IdentityV/tips.md)
+  * [Tips](./IdentityV/tips.md)
 
 [Study]()
 
   * [Number](./Study/number.md)
   * [Pronoun](./Study/pronoun.md)
-  * [verb](./Study/verb.md)
+  * [Verb](./Study/verb.md)
+  * [Adjective](./Study/adjective.md)
   * [Suffix](./Study/suffix.md)
   * [Wh questions](./Study/wh_questions.md)
   * [Words](./Study/words.md)
