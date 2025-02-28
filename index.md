@@ -19,7 +19,7 @@
 
 * [Number](./Study/number.md)
 * [Pronoun](./Study/pronoun.md)
-* [Grammar](./Study/grammar.md.md)
+* [Grammar](./Study/grammar.md)
 * [Verb](./Study/verb.md)
 * [Adjective](./Study/adjective.md)
 * [Suffix](./Study/suffix.md)
